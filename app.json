@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/AshutoshGoswami24/text-leech-bot",
+    "repository": "https://github.com/Manishkumara1/text-leech-bot",
     "success_url": "https://t.me/AshutoshGoswami24",
     "stack": "heroku-22",
     "env": {
